@@ -17,18 +17,17 @@ export default function Home() {
     <div className="container">
       <div >
         <Header />
-      </div>
       <div className="d-inline-flex">
         <Cards titulo="Primero titulo"/>
         <Cards titulo="Segundo titulo"/>
         <Cards titulo="Tercer titulo"/>
         <Cards titulo="Cuarto titulo"/>
       </div>
+      </div>
     </div>
       <div>
         <Footer />
       </div>
     </div>
-
   );
 };

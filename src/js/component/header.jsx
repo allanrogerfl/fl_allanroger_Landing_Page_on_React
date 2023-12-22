@@ -4,7 +4,7 @@ import React from "react";
 const Header = () => {
     return (
         <div>
-            <div className= ""style={{ width: "84rem", marginTop:"90px"}}>
+            <div className= "my-3"style={{ width: "100%"}}>
                 <div className="card bg-light">
                     <div className="card-body">
                         <h1 className="card-title">A Warm Welcome!</h1>
